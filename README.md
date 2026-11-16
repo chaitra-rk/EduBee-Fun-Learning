@@ -85,4 +85,5 @@ Conceptual UI/UX design project. The proposed features represent the design visi
 
 Designed with creativity and AI assistance using Figma Make.
 
-**EduBee – Making Learning Smarter, Happier and More Fun! 🐝**
+*
+[![Figma](https://img.shields.io/badge/Designed%20with-Figma-A259FF?logo=figma&logoColor=white)](www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?t=KMw6js5LKk9mOKYx-1)*EduBee – Making Learning Smarter, Happier and More Fun! 🐝**
