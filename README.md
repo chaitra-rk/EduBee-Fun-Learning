@@ -68,7 +68,7 @@ The project explores AI-powered learning, gamification, smart study planning, pr
 
 ## 🚀 Project Preview
 
-Figma Design: https: //www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?t=KMw6js5LKk9mOKYx-1
+Figma Design: [https: //www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?t=KMw6js5LKk9mOKYx-1](https://www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?fullscreen=1&t=RPbJgEB9iZ2mdhig-1&code-node-id=0-6)
 
 ## 📌 Project Status
 
@@ -86,4 +86,4 @@ Conceptual UI/UX design project. The proposed features represent the design visi
 Designed with creativity and AI assistance using Figma Make.
 
 *
-[![Figma](https://img.shields.io/badge/Designed%20with-Figma-A259FF?logo=figma&logoColor=white)](www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?t=KMw6js5LKk9mOKYx-1)*EduBee – Making Learning Smarter, Happier and More Fun! 🐝**
+[![Figma](https://img.shields.io/badge/Designed%20with-Figma-A259FF?logo=figma&logoColor=white)]([www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?t=KMw6js5LKk9mOKYx-1](https://www.figma.com/make/G9yILvX9XWHbyBArWQ3Zst/EduBee-Learning-Platform?fullscreen=1&t=RPbJgEB9iZ2mdhig-1&code-node-id=0-6)) *EduBee – Making Learning Smarter, Happier and More Fun! 🐝**
